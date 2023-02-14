@@ -1,7 +1,7 @@
 # Pixio 
 Pixio is an Image Editing application(Still Developing) which uses OpenCV library for Image manipulation. 
 GUI is made using Tkinter.
-To use this application download the zip file or pull it using git pull command 
+To use this application download the zip file or pull it using git pull comman
 And then move the "Sample" folder (Provided in the repository) to the C:/ drive of your system.
 
 To use Image to text feature install the tesserect engine from the below link:
